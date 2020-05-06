@@ -64,3 +64,13 @@ button:not(:disabled):active {
 button:focus {
 	border-color: #666;
 }
+
+.horizontal-container {
+	display: flex;
+}
+.width-100 {
+	width: 100%;
+}
+.text-center {
+	text-align: center;
+}
